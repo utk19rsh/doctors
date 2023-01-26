@@ -1,4 +1,4 @@
-# Doctor UI Application
+# Doctor UI App
 
 A cross-platform application mainly primarily consisting of a multi-palette UI theme.
 
