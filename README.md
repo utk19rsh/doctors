@@ -1,6 +1,6 @@
-# doctors
+# Doctor UI Application
 
-A new Flutter project.
+A cross-platform application mainly primarily consisting of a multi-palette UI theme.
 
 ## Getting Started
 
